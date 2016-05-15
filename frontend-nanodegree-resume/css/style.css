@@ -16,6 +16,7 @@ h6 {
 
 body {
   background-color: #f3f3f3;
+  position: relative;
 }
 
 .clear-fix {
@@ -25,7 +26,7 @@ body {
 .education-entry,
 .work-entry,
 .project-entry {
-  padding: 0 5%;
+  padding: 0 20px;
 }
 
 h1 {
@@ -47,6 +48,7 @@ h3 {
   font-size: 24px;
   color: #000;
   line-height: 22px;
+  font-weight: bold;
 }
 
 h4 {
@@ -60,7 +62,7 @@ h2,
 h3,
 h4,
 h5 {
-  padding:10px 5%;
+  padding:0px 20px;
 
 }
 
@@ -81,17 +83,9 @@ h5 {
   float: right;
 
 }
-
-p {
-  font-size: 14px;
-  color: #333;
-  line-height: 21px;
-}
-
 a {
   color: #115A5A;
   text-decoration: none;
-  margin-top: 10px;
   display: block;
 }
 
@@ -100,6 +94,7 @@ a {
   font-weight: bold;
   color: #115A5A;
   line-height: 28px;
+  padding-top:20px;
 }
 
 #skills-h3 {
@@ -131,9 +126,9 @@ a {
 }
 
 /* TODO: Replace with image later */
-/*#header {
-  background-color: #CECECE;
-}*/
+#header {
+  padding:10px 20px 20px 20px;
+}
 
 .flex-box {
   display: -webkit-flex;
@@ -141,7 +136,7 @@ a {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-around;
-  padding: 10px;
+  padding: 0px 10px;
 }
 
 .center-content {
@@ -176,6 +171,7 @@ span {
 span.white-text a {
   color: #115A5A;
   text-decoration: none;
+  font-size:16px;
 }
 
 /* Media queries to handle various device widths */
@@ -214,7 +210,7 @@ span.white-text a {
 #mapDiv {
   height: 600px;
   width: 100%;
-  padding-bottom: 5%;
+  padding-bottom: 20px;
 }
 
 @media only screen and (min-width: 750px) {
@@ -229,7 +225,7 @@ span.white-text a {
   border:1px lightgray solid;
   box-shadow: 1px 1px 6px #6f6f6f;
   margin-bottom:13px;
-  padding-bottom:10px;
+  padding-bottom:20px;
   padding-top:10px;
   margin-left:0px;
   margin-right:0px;
@@ -240,7 +236,7 @@ span.white-text a {
   border:1px lightgray solid;
   box-shadow: 3px 3px 6px #6f6f6f;
   margin-bottom:13px;
-  padding-bottom:10px;
+  padding-bottom:20px;
   padding-top:10px;
   margin-left:0px;
   margin-right:0px;
@@ -248,5 +244,13 @@ span.white-text a {
 }
 
 .container {
-  margin-top:50px;
+  margin-top:60px;
+}
+
+div.project-entry p {
+  line-height: 1;
+}
+
+span.icon-bar {
+  padding:0px;
 }
