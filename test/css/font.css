@@ -1,0 +1,55 @@
+@font-face {
+    font-family:OmnesB;
+    src: url('../fonts/omnes_att_ii-bold-webfont.eot');
+    src: url('../fonts/omnes_att_ii-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/omnes_att_ii-bold-webfont.ttf') format('truetype'),
+         url('../fonts/omnes_att_ii-bold-webfont.svg') format('svg');
+	}
+
+@font-face {
+    font-family:OmnesI;
+    src: url('../fonts/omnes_att_ii-italic-webfont.eot');
+    src: url('../fonts/omnes_att_ii-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/omnes_att_ii-italic-webfont.ttf') format('truetype'),
+         url('../fonts/omnes_att_ii-italic-webfont.svg') format('svg');
+	}
+
+@font-face {
+    font-family:OmnesM;
+    src: url('../fonts/omnes_att_ii_medium-webfont.eot');
+    src: url('../fonts/omnes_att_ii_medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/omnes_att_ii_medium-webfont.ttf') format('truetype'),
+         url('../fonts/omnes_att_ii_medium-webfont.svg') format('svg');
+	}
+	
+@font-face {
+    font-family:OmnesMI;
+    src: url('../fonts/omnes_att_ii_medium-italic-webfont.eot');
+    src: url('../fonts/omnes_att_ii_medium-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/omnes_att_ii_medium-italic-webfont.ttf') format('truetype'),
+         url('../fonts/omnes_att_ii_medium-italic-webfont.svg') format('svg');
+	}
+
+@font-face {
+    font-family:OmnesBI;
+    src: url('../fonts/omnes_att_ii-bolditalic-webfont.eot');
+    src: url('../fonts/omnes_att_ii-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/omnes_att_ii-bolditalic-webfont.ttf') format('truetype'),
+         url('../fonts/omnes_att_ii-bolditalic-webfont.svg') format('svg');
+	}
+
+@font-face {
+    font-family:OmnesL;
+    src: url('../fonts/omnes_att_ii_light-webfont.eot');
+    src: url('../fonts/omnes_att_ii_light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/omnes_att_ii_light-webfont.ttf') format('truetype'),
+         url('../fonts/omnes_att_ii_light-webfont.svg') format('svg');
+	}
+
+@font-face {
+    font-family:OmnesLI;
+    src: url('../fonts/omnes_att_ii_light-italic-webfont.eot');
+    src: url('../fonts/omnes_att_ii_light-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/omnes_att_ii_light-italic-webfont.ttf') format('truetype'),
+         url('../fonts/omnes_att_ii_light-italic-webfont.svg') format('svg');
+	}
