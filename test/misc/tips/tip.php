@@ -1,4 +1,0 @@
-<div class="col-md-10 col-md-offset-1">
-	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae lacus consectetur purus posuere placerat. Sed ac magna quis nibh aliquam tempus. Vestibulum sit amet augue diam. Suspendisse gravida vel mauris sed faucibus. Maecenas at porttitor nulla. Pellentesque consequat, nisl eget facilisis consequat, metus elit feugiat erat, et mollis lacus tellus a ante. Integer et nibh id dolor posuere elementum. Quisque interdum, eros vitae rutrum dignissim, tellus ipsum aliquam mi, nec interdum libero purus non ligula. Nam suscipit dignissim feugiat. Aenean sollicitudin scelerisque nulla. Nulla porta, nisi non rutrum efficitur, diam arcu convallis erat, ac pharetra dolor risus a nisl. Suspendisse potenti.
-	<img class="img-responsive center img-border" src="http://placehold.it/900x800">
-</div>
